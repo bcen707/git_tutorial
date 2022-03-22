@@ -5,4 +5,4 @@ def add(x,y):
   
 # Ashley needs to implement this
 def mult(x,y):
-  return x * y
+  return x*y
