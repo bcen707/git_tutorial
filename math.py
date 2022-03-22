@@ -1,8 +1,8 @@
 # I need to implement this
 def add(x,y):
-  return none
+  return x + y
   
   
 # Ashley needs to implement this
 def mult(x,y):
-  return none
+  return x * y
