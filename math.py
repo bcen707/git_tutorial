@@ -9,5 +9,9 @@ def add(x,y):
   
   
 # Ashley needs to implement this
+
+
 def mult(x,y):
-  return x*y
+    if(type(x) == float and type(y) == float):
+        return x*y
+    print("All parameters must be integers. Try again.")
